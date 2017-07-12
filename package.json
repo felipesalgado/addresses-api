@@ -1,0 +1,18 @@
+{
+  "name": "addresses-rest-api",
+  "version": "1.0.0",
+  "description": "Addresses REST API - Recruitment process",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felipe Salgado",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "moment": "^2.18.1",
+    "mongoose": "^4.11.1",
+    "request": "^2.81.0"
+  }
+}

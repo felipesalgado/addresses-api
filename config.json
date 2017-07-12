@@ -1,0 +1,8 @@
+{
+  "GEO_API_URL": "https://maps.googleapis.com/maps/api/geocode/json",
+  "GEO_API_KEY": "PUT_YOUR_SECRET_KEY_HERE",
+  "ELV_API_URL": "https://maps.googleapis.com/maps/api/elevation/json",
+  "ELV_API_KEY": "PUT_YOUR_SECRET_KEY_HERE",
+  "DB_CONECTION": "mongodb://localhost/addresses",
+  "SERVER_PORT": 3000
+}
